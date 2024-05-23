@@ -1,6 +1,6 @@
 
 
-![devops guide](https://github.com/suyash43/DevOps-Guide/master/img/devops-guide.png)
+![devops guide](https://github.com/suyash43/DevOps-Guide/blob/main/img/devops-guide.png)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/suyash43/DevOps_Cheatsheet?style=for-the-badge)   ![Devops](https://img.shields.io/badge/Development-Operations-blue?style=for-the-badge) ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/devops?style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/suyash43/DevOps-Guide?style=for-the-badge)
 

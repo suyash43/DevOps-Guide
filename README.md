@@ -1,6 +1,6 @@
 
 
- Devops Guide by <a href="https://github.com/Tikam02" alt="tab">Tikam</a> 
+ Devops Guide by <a href="https://github.com/Tikam02" alt="_blank">Tikam</a> 
  
 ![devops guide](https://github.com/suyash43/DevOps-Guide/blob/main/img/devops-guide.png)
 
